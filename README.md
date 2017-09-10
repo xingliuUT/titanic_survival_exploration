@@ -29,3 +29,7 @@ The dataset used in this project is included as `titanic_data.csv`. This dataset
 
 **Target Variable**
 - `survival` : Survival (0 = No; 1 = Yes)
+
+### Conclusion:
+
+After exploratory data analysis on the titanic data, I found that `sex`, `age`, `pclass` are the most important predictors on whether someone survived. Most of the female survived, except for some of those in `pclass = 3 Lower Class`. Most of the male didn't survive, except for some of those less than 10 years old.
